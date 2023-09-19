@@ -1,0 +1,27 @@
+program()
+	osszeg = 0;
+	i = 1;
+	ciklus amíg (i<101)
+		osszeg = osszeg + i;
+		i = i + 1;
+	c.v.
+	Ki: osszeg;
+program;
+
+program()
+	osszeg = 0;
+	ciklus i = 1-től 100-ig egyesével
+		osszeg = osszeg + i;
+	c.v.
+	Ki osszeg;
+pr.v.
+
+program(a,h)
+	i = 1;
+	er = 1;
+	ciklus amíg (i<=h)
+		er = er * a;
+		i = i + 1;
+	c.v.
+	Ki: er;
+pr.v.
